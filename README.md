@@ -5,7 +5,7 @@ A simple responsive website built using **HTML** and **CSS**, featuring:
 - 📂 A clickable drawer (slider menu)  
 - 📱 Fully responsive design for desktop and mobile  
 
-## 🚀 Demo
+## 🚀 Click Here to Demo:
 [Live Demo](https://utsavthakur448.github.io/responsive-camera-site/)
 
 ## 🛠️ Built With
