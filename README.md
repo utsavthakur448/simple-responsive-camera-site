@@ -24,5 +24,5 @@ A simple responsive website built using **HTML** and **CSS**, featuring:
 ## 📚 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/responsive-camera-site.git
+   git clone https://github.com/utsavthakur448/responsive-camera-site.git
 2. Open index.html in your browser.
