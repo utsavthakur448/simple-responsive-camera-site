@@ -12,7 +12,7 @@ https://utsavthakur448.github.io/responsive-camera-site/
 - HTML
 - CSS
 
-✨ Features
+## ✨ Features
 - Responsive layout
 - Clean and simple UI
 - Drawer menu for navigation
