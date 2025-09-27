@@ -6,7 +6,7 @@ A simple responsive website built using **HTML** and **CSS**, featuring:
 - 📱 Fully responsive design for desktop and mobile  
 
 ## 🚀 Click Here to Demo:
-https://utsavthakur448.github.io/responsive-camera-site/
+https://utsavthakur448.github.io/simple-responsive-camera-site/
 
 ## 🛠️ Built With
 - HTML
