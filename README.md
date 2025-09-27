@@ -1,4 +1,4 @@
-# Responsive Camera Website
+# Simple Responsive Camera Website
 
 A simple responsive website built using **HTML** and **CSS**, featuring:  
 - 📷 A camera image  
